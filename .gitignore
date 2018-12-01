@@ -1,0 +1,8 @@
+
+logs
+DeepTemplate
+*.pdf
+__pycache__
+.DS_Store
+.idea/
+Data
